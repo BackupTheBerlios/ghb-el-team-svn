@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<!-- $Header: /var/www/www.gentoo.org/raw_cvs/gentoo/xml/htdocs/doc/en/handbook/handbook.xml,v 1.141 2004/11/20 22:23:30 neysx Exp $ -->
+<!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
+
+<guide link="/doc/en/handbook/handbook.xml">
+<title>Εγχειρίδια του Gentoo Linux</title>
+
+<author title="Author">
+  <mail link="swift@gentoo.org">Sven Vermeulen</mail>
+</author>
+
+<author title="Μεταφραστής">
+  <mail link="int.teo@gmail.com">Θεόφιλος Ιντζόγλου</mail>
+</author>
+
+<abstract>
+Αυτό το κείμενο αντικαθιστά το παλιό Εγχειρίδιο του Gentoo. Το νέο Εγχειρίδιο είναι
+ιδιαίτερο για κάθε αρχιτεκτονική (περίπου) και για αυτόν τον λόγο η χρήση του ονόματος
+handbook.xml θεωρείται απαρχαιωμένη.
+</abstract>
+
+<license/>
+
+<version>1.1</version>
+<date>2004-04-05</date>
+
+<chapter>
+<title>Τα Εγχειρίδια του Gentoo Linux</title>
+<section>
+<title>Ε;;; Πού είναι;</title>
+<body>
+
+<p>
+Το παλιό Εγχειρίδιο του Gentoo (αυτό με τις οδηγίες για όλες τις αρχιτεκτονικές)
+θεωρείται πλέον απαρχαιωμένο σε σχέση με το καινούριο, ιδιαίτερο για κάθε αρχιτεκτονική
+Εγχειρίδιο του Gentoo.
+</p>
+
+<p>
+Σημειώστε ότι αυτή η ιδιαίτερη για κάθε αρχιτεκτονική άποψη δεν είναι 100% έγκυρη
+-- το νέο Εγχειρίδιο ακόμα αναφέρεται σε άλλες αρχιτεκτονικές σε ορισμένα σημεία.
+Αυτό γίνεται γιατί το Εγχειρίδιο του Gentoo περιλαμβάνει <e>πολλές</e> πληροφορίες που
+είναι έγκυρες για όλες τις αρχιτεκτονικές και δεν θέλουμε να αντιγράφουμε πανομοιότυπες
+πληροφορίες σε όλες τις εκδόσεις του (λόγω περιορισμού των πόρων, για αποφυγή επιπλέον
+κόπου αντιγραφής, κλπ.).
+</p>
+
+<p>
+Θα προσπαθήσουμε να το κρατήσουμε σε ένα ελάχιστο για να αποφύγουμε την σύγχυση.
+</p>
+
+</body>
+</section>
+<section>
+<title>Τα Εγχειρίδια των Αρχιτεκτονικών</title>
+<body>
+
+<p>
+Παρακαλώ χρησιμοποιήστε το Εγχειρίδιο του Gentoo της δικής σας αρχιτεκτονικής.
+</p>
+
+<ul>
+  <li><uri link="handbook-x86.xml">Εγχειρίδιο του Gentoo Linux/x86</uri></li>
+  <li><uri link="handbook-amd64.xml">Εγχειρίδιο του Gentoo Linux/AMD64</uri></li>
+  <li><uri link="handbook-ppc.xml">Εγχειρίδιο του Gentoo Linux/PPC</uri></li>
+  <li><uri link="handbook-sparc.xml">Εγχειρίδιο του Gentoo Linux/SPARC</uri></li>
+  <li><uri link="handbook-alpha.xml">Εγχειρίδιο του Gentoo Linux/Alpha</uri></li>
+  <li><uri link="handbook-mips.xml">Εγχειρίδιο του Gentoo Linux/MIPS</uri></li>
+  <li><uri link="handbook-hppa.xml">Εγχειρίδιο του Gentoo Linux/HPPA</uri></li>
+</ul>
+
+</body>
+</section>
+</chapter>
+</guide>
+
