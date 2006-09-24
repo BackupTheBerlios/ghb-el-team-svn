@@ -1,0 +1,32 @@
+(web)site                ιστοσελίδα
+FAQ                      FAQ
+GWN                      GWN
+Gentoo Weekly Newsletter Εβδομαδιαίο Ενημερωτικό Δελτίο Gentoo
+author                   συγγραφέας
+bug                      σφάλμα
+configuration            διαμόρφωση
+currently                αυτή στη στιγμή
+deprecated               παρωχημένο
+editor                   συντάκτης
+embed(ded)               ?
+escalation               κλιμάκωση
+event                    γεγονός
+feed                     παροχή
+feedback                 ανάδραση
+format                   μορφή
+forum(s)                 φόρα
+hardened                 ?
+issue                    τεύχος
+module                   άρθρωμα
+overview                 επισκόπηση
+partition                κατάτμηση
+port (ενός προγράμματος) ?
+profile                  προφίλ
+project                  σχέδιο
+summary                  περίληψη
+summer camp              καλοκαιρινή κατασκήνωση
+update                   ενημέρωση
+upstream                 ?
+volume                   τόμος
+vulnerability            πρόβλημα ασφάλειας
+workspace                περιοχή εργασίας

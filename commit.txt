@@ -1,0 +1,92 @@
+Please add your name in square brackets next to the files below you would like
+to take on translating.
+
+[UN] stands for Update Needed and files marked as such
+should be left for later review, let us first translate the rest of the
+handbook and we deal with those in due course. FYI - the list of existing
+translations has been taken from Gentoo Bug (#99170) at:
+http://bugs.gentoo.org/show_bug.cgi?id=99170
+
+Any questions please raise them with the mailing list
+at ghb-el-team@lists.berlios.de.
+
+Thank you for your time and effort and good luck translating!
+
+# Start of handbook files
+
+handbook-alpha.xml
+handbook-amd64.xml
+handbook-arm.xml
+handbook-hppa.xml
+handbook-ia64.xml
+handbook-mips.xml
+handbook-ppc.xml
+handbook-ppc64.xml
+handbook-sparc.xml
+handbook-x86.xml [UN]
+handbook.xml [UN]
+hb-install-about.xml
+hb-install-alpha-bootloader.xml
+hb-install-alpha-disk.xml
+hb-install-alpha-kernel.xml
+hb-install-alpha-medium.xml
+hb-install-arm-bootloader.xml
+hb-install-arm-disk.xml
+hb-install-arm-kernel.xml
+hb-install-arm-medium.xml
+hb-install-config.xml
+hb-install-finalise.xml
+hb-install-hppa-bootloader.xml
+hb-install-hppa-disk.xml
+hb-install-hppa-kernel.xml
+hb-install-hppa-medium.xml
+hb-install-ia64-bootloader.xml
+hb-install-ia64-disk.xml
+hb-install-ia64-kernel.xml
+hb-install-ia64-medium.xml
+hb-install-mips-bootloader.xml
+hb-install-mips-disk.xml
+hb-install-mips-kernel.xml
+hb-install-mips-medium.xml
+hb-install-mips-stage.xml
+hb-install-mips-system.xml
+hb-install-network.xml
+hb-install-next.xml
+hb-install-ppc-bootloader.xml
+hb-install-ppc-disk.xml
+hb-install-ppc-kernel.xml
+hb-install-ppc-medium.xml
+hb-install-ppc64-bootloader.xml
+hb-install-ppc64-disk.xml
+hb-install-ppc64-kernel.xml
+hb-install-ppc64-medium.xml
+hb-install-sparc-bootloader.xml
+hb-install-sparc-disk.xml
+hb-install-sparc-kernel.xml
+hb-install-sparc-medium.xml
+hb-install-stage.xml
+hb-install-system.xml
+hb-install-tools.xml
+hb-install-x86+amd64-bootloader.xml
+hb-install-x86+amd64-disk.xml
+hb-install-x86+amd64-kernel.xml
+hb-install-x86+amd64-medium.xml
+hb-net-advanced.xml
+hb-net-functions.xml
+hb-net-management.xml
+hb-net-modules.xml
+hb-net-start.xml
+hb-net-wireless.xml
+hb-portage-branches.xml [UN]
+hb-portage-configuration.xml [imarma]
+hb-portage-diverttree.xml
+hb-portage-ebuild.xml
+hb-portage-files.xml
+hb-portage-tools.xml [UN]
+hb-working-features.xml [UN]
+hb-working-portage.xml [UN]
+hb-working-rcscripts.xml [UN]
+hb-working-use.xml [UN]
+hb-working-variables.xml [UN]
+
+# End of handbook files
