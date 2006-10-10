@@ -1,6 +1,10 @@
 Please add your name in square brackets next to the files below you would like
 to take on translating.
 
+To get new xml handbook files use the CVS repository that can be accesed
+here: 
+http://sources.gentoo.org/viewcvs.py/gentoo/xml/htdocs/doc/en/handbook/
+
 [UN] stands for Update Needed and files marked as such
 should be left for later review, let us first translate the rest of the
 handbook and we deal with those in due course. FYI - the list of existing
