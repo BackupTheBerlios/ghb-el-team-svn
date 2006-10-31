@@ -85,7 +85,7 @@ hb-portage-branches.xml [UN]
 hb-portage-configuration.xml [imarma]
 hb-portage-diverttree.xml
 hb-portage-ebuild.xml
-hb-portage-files.xml
+hb-portage-files.xml [theint]
 hb-portage-tools.xml [UN]
 hb-working-features.xml [UN]
 hb-working-portage.xml [UN]
