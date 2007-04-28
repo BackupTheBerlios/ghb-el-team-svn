@@ -1,0 +1,319 @@
+# translation of GLIInstallProfile.po to Greek
+# Gentoo Linux Installer.
+# Copyright (C) 2006
+# This file is distributed under the same license as the Gentoo Linux Installer.
+#
+# Preston Cody <codeman@gentoo.org>, 2006.
+# Theofilos Intzoglou <int.teo@gmail.com>, 2006.
+msgid ""
+msgstr ""
+"Project-Id-Version: GLIInstallProfile\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-09-02 11:58-0400\n"
+"PO-Revision-Date: 2006-09-26 01:16+0300\n"
+"Last-Translator: Theofilos Intzoglou <int.teo@gmail.com>\n"
+"Language-Team: Greek <i18ngr@lists.hellug.gr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#: GLIInstallProfile.py:586
+msgid "Popular Desktop Applications"
+msgstr "Δημοφιλείς Εφαρμογές Επιφάνειας Εργασίας"
+
+#: GLIInstallProfile.py:587
+msgid "GTK+ music player"
+msgstr "GTK+ εφαρμογή αναπαραγωγής μουσικής"
+
+#: GLIInstallProfile.py:588
+msgid "A GTK+ tagging program for MP3, OGG, FLAC, and more"
+msgstr "Ένα GTK+ πρόγραμμα εγγραφής ετικετών MP3, OGG, FLAC, και άλλων αρχείων"
+
+#: GLIInstallProfile.py:589
+msgid "A GNOME groupware application, a Microsoft Outlook workalike"
+msgstr "Μια εφαρμογή groupware του GNOME που δουλεύει σαν το Microsoft Outlook"
+
+#: GLIInstallProfile.py:590
+msgid "GTK+ Instant Messenger client"
+msgstr "GTK+ πελάτης Άμεσων Μηνυμάτων"
+
+#: GLIInstallProfile.py:591
+msgid "GTK+ FTP Client"
+msgstr "GTK+ FTP πελάτης"
+
+#: GLIInstallProfile.py:592
+msgid "GNU Image Manipulation Program"
+msgstr "GNU Πρόγραμμα Επεξεργασίας Εικόνων (GIMP)"
+
+#: GLIInstallProfile.py:593
+msgid "GNOME CD Writing Software"
+msgstr "Λογισμικό εγγραφής CD του GNOME"
+
+#: GLIInstallProfile.py:594
+msgid "GTK+ application for transferring pictures from a digital camera"
+msgstr "GTK+ εφαρμογή για μεταφορά εικόνων από μια ψηφιακή φωτογραφική μηχανή"
+
+#: GLIInstallProfile.py:595
+msgid "A SVG based generic vector-drawing program"
+msgstr "Ένα γενικό πρόγραμμα διανυμαστικής σχεδίασης βασισμένο στο SVG"
+
+#: GLIInstallProfile.py:596
+msgid "KDE CD Writing Software"
+msgstr "Λογισμικό εγγραφής CD για το KDE"
+
+#: GLIInstallProfile.py:597
+#, fuzzy
+msgid "An integrated office suite for KDE, the K Desktop Environment"
+msgstr "Μια ενσωματωμένη σουίτα γραφείου για το KDE, the K Desktop Environment"
+
+#: GLIInstallProfile.py:598
+msgid "The Mozilla Suite"
+msgstr "Η Σουίτα του Mozilla"
+
+#: GLIInstallProfile.py:599
+msgid "The Mozilla Firefox Web Browser"
+msgstr "Ο Περιηγητής Ιστού Mozilla Firefox"
+
+#: GLIInstallProfile.py:600
+msgid "Thunderbird Mail Client"
+msgstr "Ο Πελάτης Ηλεκτρονική Αλληλογραφίας Thunderbird"
+
+#: GLIInstallProfile.py:601
+msgid "Media Player for Linux"
+msgstr "Πρόγραμμα Αναπαραγωγής Πολυμέσων για το Linux"
+
+#: GLIInstallProfile.py:602
+#, fuzzy
+msgid "OpenOffice.org, a full office productivity suite."
+msgstr "Openoffice.org, μια πλήρης σουίτα γραφείου"
+
+#: GLIInstallProfile.py:603
+msgid "Same as OpenOffice but a binary package (no compiling!)"
+msgstr "Το ίδιο με το OpenOffice αλλά ως έτοιμο πακέτο (χωρίς μεταγλώττιση!)"
+
+#: GLIInstallProfile.py:604
+msgid "GTK news reader"
+msgstr "GTK εφαρμογή ανάγνωσης νέων"
+
+#: GLIInstallProfile.py:605
+msgid "Music management and playback software for GNOME"
+msgstr "Λογισμικό διαχείρισης και αναπαραγωγής μουσικής για το GNOME"
+
+#: GLIInstallProfile.py:606
+msgid "Open replacement for the Mozilla Suite"
+msgstr ""
+
+#: GLIInstallProfile.py:607 GLIInstallProfile.py:608
+msgid "A light weight email client and news reader"
+msgstr "Ένας ελαφρύς πελάτης ηλεκτρονικής αλληλογραφίας και εμφάνισης νέων"
+
+#: GLIInstallProfile.py:609
+msgid "VLC media player - Video player and streamer"
+msgstr "VLC media player - Πρόγραμμα αναπαραγωγής βίντεο και ροών"
+
+#: GLIInstallProfile.py:610
+msgid "GTK+ Graphical IRC Client"
+msgstr "GTK+ Γραφικός Πελάτης του IRC"
+
+#: GLIInstallProfile.py:611
+msgid "Xine movie player"
+msgstr ""
+
+#: GLIInstallProfile.py:612
+msgid "X MultiMedia System"
+msgstr "X MultiMedia System"
+
+#: GLIInstallProfile.py:613
+msgid "Applications often found on servers."
+msgstr "Εφαρμογές που συχνά βρίσκονται σε εξυπηρετητές."
+
+#: GLIInstallProfile.py:614
+msgid "Apache Web Server"
+msgstr "Εξυπηρετητής Ιστοσελίδων Apache"
+
+#: GLIInstallProfile.py:615
+msgid "The Common Unix Printing System"
+msgstr ""
+
+#: GLIInstallProfile.py:616
+msgid "A highly configurable, drop-in replacement for sendmail"
+msgstr ""
+
+#: GLIInstallProfile.py:617
+msgid "Linux kernel (2.4+) firewall, NAT and packet mangling tools"
+msgstr ""
+
+#: GLIInstallProfile.py:618
+msgid "Apache module for PHP"
+msgstr "Άρθρωμα για PHP του Apache"
+
+#: GLIInstallProfile.py:619
+msgid "A fast, multi-threaded, multi-user SQL database server"
+msgstr "Ένας γρήγορος, πολυνηματικός, πολυχρηστικός εξυπηρετητής βάσεων δεδομένων SQL"
+
+#: GLIInstallProfile.py:620
+msgid "The PHP scripting language"
+msgstr "Η γλώσσα σεναρίων PHP"
+
+#: GLIInstallProfile.py:621
+#, fuzzy
+msgid "A fast and secure drop-in replacement for sendmail"
+msgstr "Ένας γρήγορος και ασφαλής αντικαταστάτης του sendmail"
+
+#: GLIInstallProfile.py:622
+msgid "sophisticated Object-Relational DBMS"
+msgstr ""
+
+#: GLIInstallProfile.py:623
+msgid "ProFTP Server"
+msgstr ""
+
+#: GLIInstallProfile.py:624
+msgid "SAMBA client/server programs for UNIX"
+msgstr "Προγράμματα πελάτη/διακομιστή SAMBA για το UNIX"
+
+#: GLIInstallProfile.py:625
+msgid "Widely-used Mail Transport Agent (MTA)"
+msgstr ""
+
+#: GLIInstallProfile.py:626
+msgid "Window managers and X selection."
+msgstr ""
+
+#: GLIInstallProfile.py:627
+msgid "The Gnome Desktop Environment"
+msgstr ""
+
+#: GLIInstallProfile.py:628
+msgid "The K Desktop Environment"
+msgstr ""
+
+#: GLIInstallProfile.py:629
+msgid "A small, fast, full-featured window manager for X"
+msgstr ""
+
+#: GLIInstallProfile.py:630
+msgid "Enlightenment Window Manager"
+msgstr ""
+
+#: GLIInstallProfile.py:631
+msgid "Fluxbox is an X11 window manager featuring tabs and an iconbar"
+msgstr ""
+
+#: GLIInstallProfile.py:632
+msgid "IceWM is designed for speed, size, and simplicity"
+msgstr ""
+
+#: GLIInstallProfile.py:633
+msgid "Windowmaker is a window manager featuring the look and feel of NEXTSTEP"
+msgstr ""
+
+#: GLIInstallProfile.py:634
+msgid "XFCE Desktop Environment"
+msgstr ""
+
+#: GLIInstallProfile.py:635
+msgid "An X11 implementation maintained by the X.Org Foundation"
+msgstr ""
+
+#: GLIInstallProfile.py:636
+msgid "Miscellaneous Applications you may want."
+msgstr ""
+
+#: GLIInstallProfile.py:637
+msgid "tool for distributing files via a distributed network of nodes"
+msgstr ""
+
+#: GLIInstallProfile.py:638
+msgid "GTK+ Web IDE"
+msgstr ""
+
+#: GLIInstallProfile.py:639
+msgid "An incredibly powerful, extensible text editor"
+msgstr ""
+
+#: GLIInstallProfile.py:640
+msgid "Single process stack of various system monitors"
+msgstr ""
+
+#: GLIInstallProfile.py:641
+msgid "GUI version of the Vim text editor"
+msgstr ""
+
+#: GLIInstallProfile.py:642
+msgid "ssh-agent manager"
+msgstr ""
+
+#: GLIInstallProfile.py:643
+msgid "Rotates, compresses, and mails system logs"
+msgstr ""
+
+#: GLIInstallProfile.py:644
+msgid "Network Time Protocol suite/programs"
+msgstr ""
+
+#: GLIInstallProfile.py:645
+msgid "A Remote Desktop Protocol Client"
+msgstr ""
+
+#: GLIInstallProfile.py:646
+msgid "Secure way to index and quickly search for files on your system"
+msgstr ""
+
+#: GLIInstallProfile.py:647
+msgid "Utility to trace the route of IP packets"
+msgstr ""
+
+#: GLIInstallProfile.py:648
+msgid "Gentoo Linux USE flags editor"
+msgstr ""
+
+#: GLIInstallProfile.py:649
+msgid "Vim, an improved vi-style text editor"
+msgstr ""
+
+#: GLIInstallProfile.py:650
+msgid "A commercial-quality network protocol analyzer"
+msgstr ""
+
+#: GLIInstallProfile.py:651
+msgid "Applications recommended by the GLI Team."
+msgstr ""
+
+#: GLIInstallProfile.py:652
+msgid "A versatile IDE for GNOME"
+msgstr ""
+
+#: GLIInstallProfile.py:653
+msgid "a tool to locally check for signs of a rootkit"
+msgstr ""
+
+#: GLIInstallProfile.py:654
+msgid "Addictive OpenGL-based block game"
+msgstr ""
+
+#: GLIInstallProfile.py:655
+msgid "The GNU Privacy Guard, a GPL PGP replacement"
+msgstr ""
+
+#: GLIInstallProfile.py:656
+msgid "Software for generating and retrieving SNMP data"
+msgstr ""
+
+#: GLIInstallProfile.py:657
+msgid "the network swiss army knife"
+msgstr ""
+
+#: GLIInstallProfile.py:658
+msgid "A utility for network exploration or security auditing"
+msgstr ""
+
+#: GLIInstallProfile.py:659
+msgid "full-screen window manager that multiplexes between several processes"
+msgstr ""
+
+#: GLIInstallProfile.py:660
+msgid "An X Viewer for PDF Files"
+msgstr ""
+
